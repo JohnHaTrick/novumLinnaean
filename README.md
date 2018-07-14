@@ -1,4 +1,7 @@
 # novumLinnaean
 Sandbox for AI taxonomy / ontology scripts.
 
-0. Instructions for new contributors
+### Dependencies:
+    1. Tkinter
+
+### Instructions for new contributors:
