@@ -1,0 +1,44 @@
+{
+  "name": "Novumm_Linaean_prototype",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-env": "^7.4.2",
+    "@babel/preset-es2015": "^7.0.0-beta.53",
+    "@babel/preset-react": "^7.0.0",
+    "babel-jest": "^24.5.0",
+    "babel-plugin-minify-dead-code-elimination": "^0.5.0",
+    "babelify": "^10.0.0",
+    "classnames": "^2.2.6",
+    "dev": "^0.1.3",
+    "grunt": "^1.0.4",
+    "grunt-browserify": "^5.3.0",
+    "grunt-contrib-cssmin": "^3.0.0",
+    "grunt-contrib-uglify": "^4.0.1",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-env": "^1.0.1",
+    "grunt-run": "^0.8.1",
+    "jest": "^24.5.0",
+    "react": "^16.8.5",
+    "react-addons-test-utils": "^15.6.2",
+    "react-dom": "^16.8.5",
+    "react-frame-component": "^4.1.0",
+    "react-iframe": "^1.5.0",
+    "react-modal": "^3.8.1",
+    "react-redux": "^7.1.3",
+    "react-test-renderer": "^16.8.5",
+    "reactjs-popup": "^1.3.2",
+    "redux": "^4.0.4",
+    "uglifyify": "^5.0.1"
+  },
+  "dependencies": {}
+}

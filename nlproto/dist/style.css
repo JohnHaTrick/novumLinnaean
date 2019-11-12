@@ -1,0 +1,35 @@
+
+
+.nl-link {
+    color: #0d0de2;
+    margin: 5px 0;
+    cursor: pointer;
+}
+
+.quad.half {
+    display: flex;
+    justify-content: center;
+    padding: 0 10%;
+}
+
+.quad.quarter {
+    width: 35%;
+    padding: 10%;
+    border: 1px solid black;
+  }
+
+.quad.quarter h3 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.nl-note{
+  font-size: 11px;
+}
+
+.research-page p {
+    color: #515190;
+    display: list-item;
+    list-style-position: inside;
+    list-style-type: square;
+}
